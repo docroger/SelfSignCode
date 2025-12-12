@@ -1,16 +1,14 @@
 # SelfSignCode
 Self signing certificat creator
 
-SelfSignCode 1.4.1
+SelfSignCode 1.6.0
 ============
 
-by Docno - 2023
-windows 10/11 : 32/64 bits
+by Docno - 2025
+windows 10/11 : 64 bits
 DonationWare
 
-Le mode DEMO ne permet de signer que le premier ficher de la liste.
-
-Petit utilitaire qui permet de signer des exe windows avec un certificat personnel.
+Petit utilitaire qui permet de signer des EXE Windows avec un certificat personnel.
 Regroupe tous les utilitaires nécessaires sans avoir besoin d'installer le sdk windows.
 
  - capicom.dll
